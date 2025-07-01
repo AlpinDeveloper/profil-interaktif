@@ -1,2 +1,0 @@
-# bug.apk
-interaktif HTML”
